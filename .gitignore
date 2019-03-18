@@ -107,4 +107,4 @@ venv.bak/
 *.pwd
 *.csv
 *.arvo
-*.json
+*.feather
