@@ -105,8 +105,15 @@ venv.bak/
 
 # Configuration
 *.pwd
+.pwd
 *.csv
+.csv
 *.arvo
+.arvo
 *.feather
+.feather
 *.pkl
+.pkl
 .DS_Store
+.zip
+*.zip
