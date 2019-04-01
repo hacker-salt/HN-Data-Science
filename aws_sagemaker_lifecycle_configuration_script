@@ -1,3 +1,0 @@
-/home/ec2-user/anaconda3/bin/conda config -n python3 --append channels conda-forge
-/home/ec2-user/anaconda3/bin/conda update --name python3 --all -q -y
-/home/ec2-user/anaconda3/bin/conda install -n python3 pandas numpy matplotlib feather-format psycopg2 sqlalchemy sqlite postgresql airflow-with-postgres dask distributed tqdm textblob line_profiler seaborn bokeh scikit-learn -q -y
