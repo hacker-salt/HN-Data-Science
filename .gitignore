@@ -108,3 +108,5 @@ venv.bak/
 *.csv
 *.arvo
 *.feather
+
+.DS_Store
